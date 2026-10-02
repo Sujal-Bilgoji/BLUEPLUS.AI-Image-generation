@@ -2,7 +2,7 @@
 
 Free AI image generator built as a full-stack portfolio project.
 
-**Live demo:** [add your link after deploying]
+**Live demo:** https://blueplus-ai.onrender.com
 
 ## Features
 - Text-to-image with 12 style presets, 5 aspect ratios, and 1-4 images per request
